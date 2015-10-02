@@ -1,6 +1,6 @@
 #########################################################
 # Assignment 01 Collaborative Social Sciene Data Analysis
-# Björn Boening | bjoernboening
+# BjÃ¶rn Boening | bjoernboening
 # UKgas dataset from R
 # 30 Sept 2015
 
@@ -22,3 +22,8 @@ boxplot(UKgas)
 plot(UKgas) # well, it didnt work but at least I can show a plot which shows the answer to question #1 in my readme.
 
 ### next assignment follows
+
+# Citation of used software:
+# R Core Team (2015). R: A language and environment for
+# statistical computing. R Foundation for Statistical Computing,
+# Vienna, Austria. URL https://www.R-project.org/.
