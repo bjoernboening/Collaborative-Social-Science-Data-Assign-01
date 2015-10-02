@@ -8,3 +8,6 @@ Later we want to collaborate on a data analysis project in our course, hence thi
 
 Firstly I assume that the total gas consumption in the UK from 1960 to 1987 has risen (year by year).
 Sencondly I expect that the usage in the first quarter of a year is always the highest within that year.
+
+The second dataset Orange from R shows the age and the circumference of orange trees.
+Here the descriptive statistics should convince that older trees have more circumference as well.
